@@ -1,6 +1,6 @@
 <h1 align='center'> Hi, I'm Gloria ✨ - Developer</h1>
 
-<p> I specialize in the server side, I really like the <strong> backend </strong> 😃<br> 
+<p align='center' > I specialize in the server side, I really like the <strong> backend </strong> 😃<br> 
     I am currently a computer science student, I am team Node , the immensity of things
     what can you do with this language is awesome. On the other hand I am a lover of books 📚and the functioning of the brain 🧠</p>
     
@@ -10,8 +10,8 @@
   
   
   
-<p align='center'> <strong>Technologies and Development Tools</strong> </p> ⛏
-<p>
+<p align='center'> <strong>Technologies and Development Tools ⛏</strong> </p> 
+<p align='center'>
  <img src="https://img.shields.io/badge/JavaScript-yellow" alt=""> 
   <img src="https://img.shields.io/badge/NODE-<COLOR>" alt="">
  <img src="https://img.shields.io/badge/Express-grey" alt=""> <img src="https://img.shields.io/badge/Hapi-orange" alt=""> 
@@ -22,4 +22,4 @@
  
 
 <p align='center'> <strong> You can see everything I have already learned, here 👇</strong></p> <br>
-    https://platzi.com/@gloria-lopez/
+   <p align='center'>  https://platzi.com/@gloria-lopez/</p>
