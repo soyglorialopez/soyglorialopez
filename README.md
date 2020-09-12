@@ -1,4 +1,4 @@
-<h1> Hi, I'm Gloria ✨ - Developer</h1>
+<h1 align='center'> Hi, I'm Gloria ✨ - Developer</h1>
 
 <p> I specialize in the server side, I really like the <strong> backend </strong> 😃<br> 
     I am currently a computer science student, I am team Node , the immensity of things
@@ -10,8 +10,7 @@
   
   
   
-
-## Technologies and Development Tools ⛏
+<p align='center'> <strong>Technologies and Development Tools</strong> </p> ⛏
 <p>
  <img src="https://img.shields.io/badge/JavaScript-yellow" alt=""> 
   <img src="https://img.shields.io/badge/NODE-<COLOR>" alt="">
@@ -22,5 +21,5 @@
  </p>
  
 
-<strong> You can see everything I have already learned, here 👇</strong> <br>
+<p align='center'> <strong> You can see everything I have already learned, here 👇</strong></p> <br>
     https://platzi.com/@gloria-lopez/
