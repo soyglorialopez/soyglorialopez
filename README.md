@@ -1,4 +1,4 @@
-<h1> I'm Gloria ✨ - Developer</h1>
+<h1> Hi, I'm Gloria ✨ - Developer</h1>
 
 <p> I specialize in the server side, I really like the <strong> backend </strong> 😃<br> 
     I am currently a computer science student, I am team Node , the immensity of things
