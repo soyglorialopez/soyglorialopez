@@ -22,3 +22,7 @@
 
 <p align='center'> <strong> You can see everything I have already learned, here 👇</strong></p>
    <p align='center'>  https://platzi.com/@gloria-lopez/</p>
+
+<p ><strong> GET IN TOUCH</strong></p>
+* <p ><strong> <samll> Twitter:</small></strong> @soyglorialopez</p>
+* <p ><strong> <samll> Gmail:</small></strong> glorialopez.gelm@gmail.com</p>
