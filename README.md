@@ -2,7 +2,7 @@
 
 <p align='center' > I specialize in the server side, I really like the <strong> backend </strong> 😃<br> 
     I am currently a computer science student, I am team Node , the immensity of things
-    what can you do with this language (JS) is awesome. On the other hand I am a lover of books 📚and the functioning of the brain 🧠</p> <br>
+    what can you do with this language (JS) is awesome. On the other hand I am a lover of books 📚and neuroscience 🧠</p> <br>
     
 ```
          In my account you will mainly find my projects and courses that I have been doing 
