@@ -28,4 +28,6 @@
  <p ><strong>* <samll> Twitter:</small></strong> https://twitter.com/soyglorialopez</p>
  <p ><strong>* <samll> Medium:</small></strong> https://medium.com/@soyglorialopez</p>
  <p ><strong>* <samll> Gmail:</small></strong> glorialopez.gelm@gmail.com</p>
+ <p ><strong>* <samll> LinkedIn:</small></strong> https://www.linkedin.com/in/gloria-lopez-86abaa129</p>
+ 
  
