@@ -19,6 +19,7 @@
  <img src="https://img.shields.io/badge/MongoDB-green" alt=""> 
  </p>  <br>
  <p align='center'> <strong> Articles I have written </strong></p>
+ <p align='center'><samll>https://soyglorialopez.medium.com/buenas-practicas-de-desarrollo-en-node-js-ec4ef54f2208</small></p> 
 <p align='center'>  <samll>https://medium.com/@glorialopez.gelm/la-magia-de-javascript-nodejs-830a5c067e01?source=friends_link&sk=226020fca4cb5271e20b1c9e7fc9cc84 </small> </p> <br>
 
 <p align='center'> <strong> You can see everything I have already learned, here 👇</strong></p>
