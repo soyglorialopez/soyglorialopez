@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/rubyonrails-red?style=flat-square&logo=ruby" alt="">
      <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux" alt="">
  </p>  <br>
- <p align='center'> <strong> Take a look at my website </strong></p>
+ <p align='center'> <strong> Take a look at my website 👇</strong></p>
  <p align='center'><samll>https://lopezgloria.com/</small></p> 
 
 <p align='center'> <strong> You can see everything I have already learned, here 👇</strong></p>
