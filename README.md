@@ -27,9 +27,6 @@
    <p align='center'>  https://platzi.com/@gloria-lopez/</p>
 
 <p ><strong> You can find me on:</strong></p>
-<!-- 
- <p ><strong>* <samll> Medium:</small></strong> https://medium.com/@soyglorialopez</p>
- <p ><strong>* <samll> LinkedIn:</small></strong> https://www.linkedin.com/in/gloria-lopez-86abaa129</p> -->
  
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkdIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://medium.com/@soyglorialopez)](https://medium.com/@soyglorialopez)
