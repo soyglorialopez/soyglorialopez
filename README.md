@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/%20AWS-232F3E?style=flat-square&logo=amazon-aws" alt="">
  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="">
    <img src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django" alt="">
-<img src="https://img.shields.io/badge/Mysql-9cf?style=flat-square&logo=mysql" alt="">  
+<img src="https://img.shields.io/badge/Mysql-9cf?style=flat-square&logo=mysql" alt=""> <br> 
  <img src="https://img.shields.io/badge/MongoDB-yellowgreen?style=flat-square&logo=mongoDB" alt="">
     <img src="https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js" alt="">
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" alt="">
