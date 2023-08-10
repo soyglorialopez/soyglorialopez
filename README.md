@@ -29,7 +29,7 @@
 <p ><strong> You can find me on:</strong></p>
  
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkdIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://medium.com/@soyglorialopez)](www.linkedin.com/in/gloria-lópez-86abaa129)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkdIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://medium.com/@soyglorialopez)](https://www.linkedin.com/in/gloria-l%C3%B3pez-86abaa129/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@soyglorialopez)](https://medium.com/@soyglorialopez)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glorialopez.gelm@gmail.com)](mailto:glorialopez.gelm@gmail.com)
  
